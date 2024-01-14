@@ -1,0 +1,93 @@
+Name,M,F,S,A,W,H,Cost,Notes,Weapon,Damage,Range,Notes,Set
+Recruit,6,+2,+2,10,+0,12,0,"Light Armour, Knife",Pistol,-,"10""",-,SG
+Runner,7,+2,+1,9,+1,12,0,Knife,Pistol,-,"10""",-,SG
+Hacker,6,+1,+1,10,+1,12,20,"Deck, Light Armour, Knife",Pistol,-,"10""",-,SG
+Chiseler,6,+1,+1,10,+1,12,20,"Picks, Light Armour, Knife",Pistol,-,"10""",-,SG
+Guard Dog,8,+1,+0,8,-2,10,10,"Animal, Cannot carry gear/loot",Natural,-,-,-,SG
+Sentry,5,+3,+2,11,+0,14,50,"Heavy Armour, Hand Weapon",Carbine,-,"24""",-,SG
+Trooper,5,+2,+3,11,+0,14,50,"Heavy Armour, Knife",Carbine,-,"24""",-,SG
+Medic,7,+2,+2,10,+3,14,100,"Light Armour, Medic Kit",Pistol,-,"10""",-,SG
+Codebreaker,6,+3,+2,10,+2,14,75,"Deck, Light Armour, Knife",Carbine,-,"24""",-,SG
+Casecracker,6,+3,+2,10,+2,14,75,"Picks, Light Armour, Knife",Carbine,-,"24""",-,SG
+Commando,5,+3,+3,11,+1,14,75,"Grenades, Heavy Armour, Hand Weapon",Carbine,-,"24""",-,SG
+Pathfinder,7,+3,+3,10,+2,14,100,"Grenades, Light Armour, Hand Weapon",Carbine,-,"24""",-,SG
+Sniper,6,+3,+4,10,+3,14,100,"Light Armour, Hand Weapon",Carbine,-,"24""",-,SG
+Grenadier,5,+3,+3,11,+2,14,100,"Pistol, Heavy Armour, Knife",Grenade Launcher,Frag/Smoke,"16""",-1 Shoot,SG
+Burner,5,+3,+2,11,+1,14,100,"Pistol, Heavy Armour, Knife",Flamethrower,+2,Template,-,SG
+Gunner,5,+3,+3,11,+1,14,100,"Pistol, Heavy Armour, Knife",Rapid Fire,+2,"24""",2 targets,SG
+Armoured Trooper,6,+4,+4,13,+3,14,150,Combat Armour,Carbine,-,"24""",-,SG
+Bileworm,4,+2,+2,10,+3,12,-,"Animal, Burrowing, Immune to Crit, Toxic",Spit,-,"8""",-,SG
+Bounty Hunter,6,+3,+3,11,+2,14,-,"Heavy Armour, Hand Weapon, Counting Coup",Carbine,-,"24""",-,SG
+Dedfurd,4,+2,+4,12,+2,16,-,"Animal, Amphibious, Bounty (20cr), Toxic, Large (-2F when shot at)",Spit,-,"8""",-,SG
+Drone,6,+0,+0,10,+2,8,-,"Robot, Fly",Pistol,-,"10""",-,SG
+Ferrox,8,+2,+0,8,+4,12,-,"Animal, Pack Hunters",Natural,-,-,-,SG
+Gaunch,6,+2,+0,8,+2,10,-,Chameleon,Natural,-,-,-,SG
+Horat,6,+4,+0,14,+1,14,-,"Animal, Hatred of Gunfire, Large (-2F when shot at)",Horns,+2,-,+2 Fight if moved this act,SG
+Magmite,5,+3,+0,13,+4,10,-,"Animal, Strong (+2D)",Lava Splash,-,-,"If Opp rolls F Nat 5-, take 2 Damage",SG
+Mindgripper,6,+2,+0,18,+3,1,-,"Ensnare, Possess",Natural,-,-,-,SG
+Pirate Shock Trooper,6,+4,+4,13,+3,14,-,Combat Armour,Carbine,-,"24""",-,SG
+Pirate Trooper,5,+2,+2,11,+0,12,-,"Heavy Armour, Knife",Carbine,-,"24""",-,SG
+Primitive,6,+1,+0,9,+0,10,-,Pack Hunter,Primitive Weapons,-1,-,-,SG
+Porigota,5,+4,+0,12,+0,14,-,"Animal, Bounty (30cr), Large (-2F when shot at), Never Wounded",Natural (Strong),+2,-,-,SG
+Repairbot,5,+0,+0,8,+0,8,-,"Robot, Unagressive",Knife,-1,-,-,SG
+Ruffian,6,+2,+1,9,+0,10,-,,Pistol,-,"10""",-,SG
+Ryakan,8,+2,+0,10,+2,10,-,"Animal, Flying",Natural,-,-,-,SG
+Sentrabot,5,+0,+2,12,+2,12,-,"Robot, Immune to Robot Control",Surprise Shot,-,"12""",Only triggered during enemy movement,SG
+Sewer Dragon,5,+4,+0,12,+4,16,-,"Animal, Amphibious, Immune to Toxin, Never Stunned",Natural (Strong),+2,-,-,SG
+Shengrylla,6,+2,+0,10,+3,12,-,"Animal, Expert Climber",Sharp Teeth,+1,-,-,SG
+Tangler,6,+1,+0,12,+1,12,-,"Animal, Expert Climber, Ensnare",Natural,-,-,-,SG
+Warbot,6,+4,+4,15,+6,20,-,"Robot, Large (-2F when shot at), Immune to Control Robot, Multiple Shooting Attacks (3)",Carbine,-,"24""",-,SG
+Warp Hound,8,+4,+0,13,+15,15,-,"Hatred of Gunfire, Immune to Crit/Toxin, Never Stunned/Wounded",Powerful,x2,-,-,SG
+Agivorus Snake,6,+2,+0,8,+0,10,-,"Amphibious, Toxic",Natural,-,-,-,HE
+Barbarian Horat Rider,6,+4,+0,14,+1,14,-,Large (-2F when shot at),Horns,+2,-,+2 Fight if moved this act,HE
+Barbarian Scout,6,+2,+2,10,+1,12,-,"Light Armour, Hand Weapon, Primitive Weapon",Rock-bolo,-,"10""",Never jams,HE
+Barbarian Warrior,6,+3,+0,10,+2,14,-,Light armour,Hand Weapon,-,-,-,HE
+Combat Drone,6,+0,+1,10,+0,8,-,"Robot, Fly",Pistol,-,"10""",-,HE
+Enhanced Mutant,6,+4,+0,10,+0,18,-,Never Stunned/Wounded,Hand Weapon,-,-,-,HE
+Grotheck,5,+7,+0,14,+6,36,-,"Large (-2F when shot at), Immune to Toxin, Terrifying Roar, Alpha Predator",Natural (Strong),+2,-,-,HE
+Grotheck-Spawn,6,+3,+0,11,+2,13,-,Nimble,Sharp Teeth,+1,-,-,HE
+Mega-Crustacean,6,+4,+0,15,+4,20,-,"Animal, Amphibious, Large (-2F if shot at), Never Stunned/Wounded, Powerful, Stop to Eat",Natural,-,-,-,HE
+Radioactive Abomination,4,+4,+0,14,+3,18,-,"Large (-2F if shot at), Hatred of Gunfire, Immune to Radiation",Natural (Strong),+2,-,-,HE
+Radroach,6,+2,+0,13,+0,14,-,"Animal, Flying, Toxic, Never Wounded, Stop to Eat, Immune to Radiation",Natural,-,-,-,HE
+Slaverbot,6,+4,+2,12,+2,14,-,"Robot, Non-lethal",Carbine,-,"24""",-,HE
+Gunfighter,6,+3,+4,10,+3,14,100,"Light Armour, Knife",Dual Pistol,+1,"10""",Lose Damage bonus if jams,Q37
+Mule,6,+0,+0,10,+0,12,50,"Robot, 4 Gear, No penalty for Loot",Pistol,-,"10""",-,Q37
+Q-Bot,6,+1,+1,10,+0,12,50,"Robot, Deck OR Pick, 1-shot G.L./Flamethrower",Knife,-1,-,-,Q37
+Ravaged,6,+1,+1,10,+1,14,0,"Light Armour, Knife, High Pain Threshold",Pistol,-,"10""",-,Q37
+Ravaged Trooper,5,+1,+2,11,+1,16,50,"Heavy Armour, Knife, High Pain Threshold",Carbine,-,"24""",-,Q37
+Trophy-Taker,6,+3,+3,11,+3,14,100,"Light Armour, Hand Weapon, Beast Fighter, Trophy-taker",Carbine,-,"24""",-,Q37
+Acid-Spewer Bug,7,+2,+3,12,+1,10,-,"Bug, Acid Spew, Expert Climber, Sharp Teeth",Spit,-,"8""",-,Q37
+Drone Bug,7,+1,+0,12,-1,8,-,"Bug, Expert Climber",Sharp Teeth,+1,-,-,Q37
+Queen Bug,5,+5,+0,14,+8,16,-,"Bug, Powerful, Unagressive",Natural,-,-,-,Q37
+Royal Guard Bug,7,+4,+0,13,+4,14,-,"Bug, Expert Climber, Hatred of Gunfire",Natural (Strong),+2,-,-,Q37
+Warrior Bug,7,+4,+0,12,+3,12,-,"Bug, Expert Climber",Natural (Strong),+2,-,-,Q37
+Worker Bug,7,+2,+0,12,+1,10,-,"Bug, Expert Climber, Toxic",Sharp Teeth,+1,-,-,Q37
+Bloater Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Potential Self-Immolate, Zombie Terror",Natural,-,-,-,Q37
+Plague Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Zombie Infection, Zombie Terror",Natural,-,-,-,Q37
+Soldier Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Zombie Infection, Zombie Terror",Carbine,-,"24""",-,Q37
+Striker,7,+5,+1,10,+3,14,100,"Light Armour, Knife, Hard to Target (+1F if shot at), Identify Weak Point (opponent gets -2A each combat rnd lost)",2 Hand Weapons,+1,-,or HW + Knife,LP
+Bruiser,6,+3,+0,11,+0,12,0,"Heavy Armour, Knife, Hard to Target (+1F if shot at)",Hand Weapon,-,-,-,LP
+Engineer,6,+3,+2,10,+3,12,100,"Light Armour, Hand Weapon, Ship Cost Discount (20% off upgrades/repairs)",Carbine,-,"24""",-,LP
+Terrain Expert,6,+3,+3,10,+1,14,100,"Light Armour, Expert Climber, Master of Cover (always in light cover vs shooter at 6"")",Carbine,-,"24""",-,LP
+Centisaur,6,+8,+0,13,+3,24,-,"Animal, Expert Climber ,Large (-2F if shot at),  +25xp, Strong (+2D in Fight)",Spit Toxic Mucus,0,Template,Will TN20 or Poisoned,LP
+Guardian of Light,6,+4,+3,10,+5,20,-,"Body of Energy, Limited Lifeforce, Levitate, Immune to Critical, Never Stunned/Wounded, Searing Touch (LP p81)",Beam of Light,-,"16""",Suffer equal damage when hits,LP
+Harvest Tick,4,+1,+0,16,+0,4,-,"Animal, Ensnare, Toxic",Natural,-,-,-,LP
+Foreman,6,+2,+0,10,+3,14,-,Light Armour,Hand Weapon,-,-,-,LP
+Miner,6,+1,+0,10,+1,12,-,Light Armour,Hand Weapon,-,-,-,LP
+Mining Robot,5,+4,+0,14,+0,16,-,"Robot, Unaggressive, 2x Hand Weapon",Hand Weapon (Strong),+2,-,-,LP
+Strice,6,+0,+0,8,+0,6,-,"Expert Climber, Pack Hunter (max 3)",Natural,-,-,-,LP
+Surfboy,8,+3,+3,14,+1,16,-,Special - see LP p86,Grav-Sled,+3,Special,LP p86,LP
+Venomous Croaker,0,+2,+2,8,+0,10,-,"Ensnare, No Push-back, Toxic",Croaker Grab,-,"3""","Automatic attack, pull to combat if dmg",LP
+Apprentice,6,+2,+2,10,+1,14,20,"Light Armour, Knife, Area of Knowledge (BE p13)",Carbine,-,"24""",-,BE
+Comtech,6,+2,+3,10,+2,14,100,"Light Armour, Knife, Ship Systems Knowledge, +1 Unlock Data-Loot, Direct Comms (can activate out of range)",Carbine,-,"24""",-,BE
+Exosuit,4,+4,+3,13,+3,14,200,"Light Armour, M +2, F/A -2 if not in suit, Special BE p16",Carbine,-,"24""",-,BE
+Expert,6,+3,+3,10,+2,14,100,"Light Armour, Knife, Area of Expertise (BE p17)",Carbine,-,"24""",-,BE
+Quartermaster,6,+3,+3,10,+3,14,100,"Light Armour, Knife, Filter Mask, +1 to Ship eng, +2 unlock Loot",Pistol,-,"10""",-,BE
+Arsendryder,5,+3,+1,11,+1,16,-,"Immune to Crit, Toxic, Move +2 if used no action",Carbine,-,"24""",-,BE
+Clicks'Clacks,6,+0*,+0,10*,+0*,10*,-,"Animal, Band Together, Nimble",Sharp Teeth,+1,-,-,BE
+Living Lightning,7,+2,+3,10,+4,10,-,"Body of Energy, Immune to Toxin, Never Stunned/Wounded",Surprise Shot,-,"12""",Only triggered during enemy movement,BE
+Plasmonic Lifeform,5,+2,+2,12,+2,16,-,"Immune to Crit/Toxin/Wound/Stun, Might contain Loot, Plasmonic Form",Special,-,-,BE p86,BE
+Shafen,6,+2,+0,8,+6,18,-,"Amphibious, Awkward on Land",Mental Attack,-,LoS,Use Will instead of S/F. No cover. Def A = 8+W,BE
+String-Life,6,+2,+2,10,+3,12,-,Special - See BE p88,Bio-Energy Wave,+2,Template,Treat as Flamethrower,BE
+Ursoric,6,+5,+0,12,+3,18,-,"Animal, Bear Hug, Large (-2F if shot at), Toxic",Natural (Strong),+2,-,-,BE
+Vienamon,5,+2,+0,10,+1,10,-,"Blend in, Fire vulnerability, Master of Cover, Plant Biology",Primitive Weapons,-1,-,-,BE

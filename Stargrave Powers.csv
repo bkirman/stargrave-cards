@@ -1,0 +1,71 @@
+Power,Activation,Strain,Range,Description,Set
+Adrenaline Surge,12,2,Self,"This figure immediately gains an additional action during this activation, and an additional action in their next activation.",SG
+Antigravity Projection,10,0,LoS,Target figure gains Levitate for the rest of game,SG
+Armour Plates,10,2,Self,Gain +2 Armour (Cannot be used with Combat Armour),SG
+Armoury,10,0,OoG (B),"Either pays for a set of Combat Armour, OR one standard pistol/carbine/shotgun gains +1 dmg for next game",SG
+Bait and Switch,12,2,LoS,"Target figure carrying loot makes Will roll (TN14) or drops it and this character may move 4""",SG
+Break Lock,12,1,LoS,Immediately unlock one physical loot,SG
+Bribe,14,0,OoG (B),Gain a bribe token. Use to cancel a shooting attack before rolling. (not vs Cap/1st),SG
+Camouflage,10,2,Self,"No LoS to this figure over 12"". +2F when shot at by pistol/carbine/shotgun/rapid-fire. Cancelled if stunned.",SG
+Cancel Power,12,1,LoS,Immediately cancel one ongoing LoS power.,SG
+Command,10,0,LoS,Target unactivated figure activates in current phase.,SG
+Concealed Firearm,10,1,Self,"In combat, make +5S attack. If damages, push back 1"" and stun opponent",SG
+Control Animal,10,1,LoS,Uncontrolled Animal makes Will roll (TN16) or joins crew for game. One at a time. Free action to cancel.,SG
+Control Robot,10,1,LoS,Robot makes Will roll (TN15) or joins crew. Recheck each activation. One at a time. Free action to cancel.,SG
+Coordinated Fire,10,0,LoS,"Target crew gains +1 shoot for rest of game. Not if over +5 shoot, and once per figure per game.",SG
+Create Robot,14,0,OoG (A),Gain robot soldier to crew of any type except Armoured Trooper. Normal limits to specialists.,SG
+Dark Energy,10,1,"12""","+5 shooting attack, ignoring armour. +7 to robots (Armour Interference)",SG
+Data Jump,10,1,LoS,"Data loot carried by friend can move to friend within 8""",SG
+Data Knock,12,1,LoS,Immediately unlock one data loot,SG
+Data Skip,12,2,LoS,"Unlocked data loot moves 4"" any direction. If carried, they make a Will roll (TN16) to resist",SG
+Destroy Weapon,12,2,"12""",Destroy weapon (non indestructable) until end of game. Armour Interference,SG
+Drone,10,1,Touch,Gain Drone for rest of game. Figure may draw LoS from Drone. One Done max.,SG
+Electromagnetic Pulse,10,1,LoS,"If targetting a robot, it must make Will roll (TN18) or lose next activation. Non robots all firearms jam and gain -1D (Once)",SG
+Energy Shield,10,0,Self,"Shield absorbs next 3 dmg from shooting attacks, then cancelled",SG
+Fling,8,1,Self/Touch,"Fling crewmember within 1"", 6"" any direction (inc up), then stun. Or vs enemy who rolls Fight (TN16) to resist. Not on Large enemies.",SG
+Fortune,12,0,Self,Gain fortune token. Tokens used to reroll Combat/Shooting/Stat roll. Max one token at a time.,SG
+Haggle,10,0,OoG (A),"When selling, gain 20% more on one item",SG
+Heal,10,0,"6""",Restore 5 H to non-robot,SG
+Holographic Wall,10,1,LoS,"Create 6""x3"" high wall that blocks LoS but not movement. Each turn roll: on <5 remove.",SG
+Life Leach,10,0,LoS,Target makes Will roll (TN15) or gives 3H to this figure. Non-robots only. Own crew deserts.  Armour Interference.,SG
+Lift,10,0,LoS,"Move friendly figure 6"" in any direction, inc up. Armour interference.",SG
+Mystic Trance,8,0,OoG (B),May attempt to use another power as if OoG(B). Not powers related to points on table or enemy figures.,SG
+Power Spike,8,1,Self,Next shooting attack with carbine/pistol/shotgun gains +3D.,SG
+Psionic Fire,10,1,Self,2x flamethrower template attacks at +3.,SG
+Pull,12,1,LoS,"Target rolls Will (TN16) or moves 6"" horizontally, not over terrain >0.5"", but can be over edges",SG
+Puppet Master,12,2,Touch,"Non-robots with 0H return as 1H, wounded characters. Armour interference",SG
+Psychic Shield,10,2,LoS,"Next incoming shooting damage reduced by 1/2 (rd down), then cancel power. Armour interference",SG
+Regenerate,8,0,Self,Gain 3 lost Health,SG
+Remote Guidance,10,0,OoG (B)/ Touch,Target robot out of activation range may activate in this phase.,SG
+Remote Firing,10,0,LoS,"Robot within LoS makes +3 shoot attack to target within 12"" as free action",SG
+Repair Robot,10,0,"6""",Restore 5 H to robot,SG
+Restructure Body,10,0,Self/OoG (B),"Gain one attribute at a time: Amphibious, Burrowing, Expert Climber, Immune Crit/Toxin, Never Wounded.",SG
+Quick-Step,10,1,Self,"Not Power Move, move 4"" any direction, may escape combat.",SG
+Re-wire Robot,14,0,OoG (B),"Friendly robot gains: +1 M/F/A, but -1 Will. Permanent, one time only.",SG
+Suggestion,12,1,LoS,"Target rolls Will (TN16) or drops loot and moves 3"" in any direction, but not into combat/damage. Armour Interference",SG
+Target Designation,8,0,LoS,Target gets -2F vs Shooting for rest of game,SG
+Target Lock,10,1,Touch,Immediate free grenade/launcher attack that hits target point. ,SG
+Temporary Upgrade,12,0,Self,Gain +1 M/F/S/A or +3W to max 7/+6/+6/14 or +8W. May switch upgrades.,SG
+Toxic Claws,10,1,Self,Gain indestructable Hand Weapon with +2D and Toxic.,SG
+Toxic Secretion,12,0,OoG (B),"Choose 2 crew, including self. All attacks are Toxic next game.",SG
+Transport,10,1,"12""","Move friendly figure 6"" any direction in LoS. Drop loot token.",SG
+Void Blade,10,0,Self,"Hand Weapon is indestructable, +2D. Gain +2F vs shooting attack from pistol/carbine/rapid-fire/shotgun. Does not stack with cover. Cancelled on stun.",SG
+Wall of Force,12,1,Self,"Create 6""x3"" high wall that blocks movement but not LoS. Shooting attack on 19-20 destroys it.",SG
+Contacts,12,0,OoG (A),May buy one item from Advanced Tech table,"LP,Q37, BE"
+Indifference,12,1,Self,Never Wounded. May ignore Stun,"LP,Q37"
+Information Broker,12,0,OoG (A),"One information/secret worth 100cr+ is kept after selling, but halves in value. ",LP
+Pistol Expert,10,0,Self,Figure's Pistols are indestructable.  Crit on19+. Never Jam. Cancelled on stun.,LP
+Saving Grace,10,0,LoS,"Next time under grenade/flamer template, auto move out of template. Then cancel power. Armour interference.","LP, BE"
+Seize the Initiative,10,1,Self,"Gain +8 to next initiative roll, for determining initiative only.",LP
+Smash and Grab,10,1,Touch,"No penalties for carrying physical loot. Unlock one loot token within 1"", unless enemy also within 1""",LP
+Treasure Seeker,12,0,OoG (A),"Make 2 rolls on physical loot table and choose one, for one recovered physical loot token.",LP
+Beast Call,12,1,Touch,Roll on Random Encounter table (SG p140) and place at random table edge. May reroll edge once.,Q37
+Crack Shot,10,1,Self,Critical Hits on Shooting 19+. Never jams.,Q37
+Inspiring,10,0,LoS,Either: target immediately recovers from Stun. OR target gains +1F for rest of game (once only),Q37
+Investments,12,0,OoG (A),Gain 50cr,Q37
+Study Prey,12,0,OoG (A),"If killed uncontrolled creature last game, gain +5xp for each, to max 25xp.",Q37
+Weapon Maintenance,12,0,OoG (B),"One carbine/shotgun/pisol becomes indestructable, +1D, Never jams, for next game.",Q37
+Bounce Back,8,0,Touch,"Next time moved involuntarily, may cancel this power to cancel the move",BE
+Probability Curve,10,0,Self,"Next dice roll, make 2 rolls and choose best result, cancel power. Armour Interference.",BE
+Righteous Fury,10,1,"6""",Target gains +1F and +1D for melee. (once only),BE
+Thunderstrike,10,1,Self,"Next time do dmg in melee, do +5 dmg and cancel power. If enemy has 0H, and not in combat, move 3""",BE
