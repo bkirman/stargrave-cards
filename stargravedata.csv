@@ -29,7 +29,7 @@ Pirate Shock Trooper,6,+4,+4,13,+3,14,-,Combat Armour,Carbine,-,"24""",-,SG
 Pirate Trooper,5,+2,+2,11,+0,12,-,"Heavy Armour, Knife",Carbine,-,"24""",-,SG
 Primitive,6,+1,+0,9,+0,10,-,Pack Hunter,Primitive Weapons,-1,-,-,SG
 Porigota,5,+4,+0,12,+0,14,-,"Animal, Bounty (30cr), Large (-2F when shot at), Never Wounded",Natural (Strong),+2,-,-,SG
-Repairbot,5,+0,+0,8,+0,8,-,"Robot, Unagressive",Knife,-1,-,-,SG
+Repairbot,5,+0,+0,8,+0,8,-,"Robot, Unaggressive",Knife,-1,-,-,SG
 Ruffian,6,+2,+1,9,+0,10,-,,Pistol,-,"10""",-,SG
 Ryakan,8,+2,+0,10,+2,10,-,"Animal, Flying",Natural,-,-,-,SG
 Sentrabot,5,+0,+2,12,+2,12,-,"Robot, Immune to Robot Control",Surprise Shot,-,"12""",Only triggered during enemy movement,SG
@@ -44,7 +44,7 @@ Barbarian Scout,6,+2,+2,10,+1,12,-,"Light Armour, Hand Weapon, Primitive Weapon"
 Barbarian Warrior,6,+3,+0,10,+2,14,-,Light armour,Hand Weapon,-,-,-,HE
 Combat Drone,6,+0,+1,10,+0,8,-,"Robot, Fly",Pistol,-,"10""",-,HE
 Enhanced Mutant,6,+4,+0,10,+0,18,-,Never Stunned/Wounded,Hand Weapon,-,-,-,HE
-Grotheck,5,+7,+0,14,+6,36,-,"Large (-2F when shot at), Immune to Toxin, Terrifying Roar, Alpha Predator",Natural (Strong),+2,-,-,HE
+Grotheck,5,+7,+0,14,+6,36,-,"Large (-2F if shot at), Immune to Toxin, Terrifying Roar, Alpha Predator",Natural (Strong),+2,-,-,HE
 Grotheck-Spawn,6,+3,+0,11,+2,13,-,Nimble,Sharp Teeth,+1,-,-,HE
 Mega-Crustacean,6,+4,+0,15,+4,20,-,"Animal, Amphibious, Large (-2F if shot at), Never Stunned/Wounded, Powerful, Stop to Eat",Natural,-,-,-,HE
 Radioactive Abomination,4,+4,+0,14,+3,18,-,"Large (-2F if shot at), Hatred of Gunfire, Immune to Radiation",Natural (Strong),+2,-,-,HE
@@ -65,12 +65,12 @@ Worker Bug,7,+2,+0,12,+1,10,-,"Bug, Expert Climber, Toxic",Sharp Teeth,+1,-,-,Q3
 Bloater Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Potential Self-Immolate, Zombie Terror",Natural,-,-,-,Q37
 Plague Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Zombie Infection, Zombie Terror",Natural,-,-,-,Q37
 Soldier Zombie,5,+1,+0,10,-1,10,-,"High Pain Threshold, Zombie Infection, Zombie Terror",Carbine,-,"24""",-,Q37
-Striker,7,+5,+1,10,+3,14,100,"Light Armour, Knife, Hard to Target (+1F if shot at), Identify Weak Point (opponent gets -2A each combat rnd lost)",2 Hand Weapons,+1,-,or HW + Knife,LP
+Striker,7,+5,+1,10,+3,14,100,"Light Armour, Knife, Hard to Target (+1F if shot at), Identify Weak Point",2 Hand Weapons,+1,-,or HW + Knife,LP
 Bruiser,6,+3,+0,11,+0,12,0,"Heavy Armour, Knife, Hard to Target (+1F if shot at)",Hand Weapon,-,-,-,LP
 Engineer,6,+3,+2,10,+3,12,100,"Light Armour, Hand Weapon, Ship Cost Discount (20% off upgrades/repairs)",Carbine,-,"24""",-,LP
-Terrain Expert,6,+3,+3,10,+1,14,100,"Light Armour, Expert Climber, Master of Cover (always in light cover vs shooter at 6"")",Carbine,-,"24""",-,LP
+Terrain Expert,6,+3,+3,10,+1,14,100,"Light Armour, Expert Climber, Master of Cover (always in light cover vs shooter ò6"")",Carbine,-,"24""",-,LP
 Centisaur,6,+8,+0,13,+3,24,-,"Animal, Expert Climber ,Large (-2F if shot at),  +25xp, Strong (+2D in Fight)",Spit Toxic Mucus,0,Template,Will TN20 or Poisoned,LP
-Guardian of Light,6,+4,+3,10,+5,20,-,"Body of Energy, Limited Lifeforce, Levitate, Immune to Critical, Never Stunned/Wounded, Searing Touch (LP p81)",Beam of Light,-,"16""",Suffer equal damage when hits,LP
+Guardian of Light,6,+4,+3,10,+5,20,-, (LP p81),Beam of Light,-,"16""",Suffer equal damage when hits,LP
 Harvest Tick,4,+1,+0,16,+0,4,-,"Animal, Ensnare, Toxic",Natural,-,-,-,LP
 Foreman,6,+2,+0,10,+3,14,-,Light Armour,Hand Weapon,-,-,-,LP
 Miner,6,+1,+0,10,+1,12,-,Light Armour,Hand Weapon,-,-,-,LP
@@ -79,7 +79,7 @@ Strice,6,+0,+0,8,+0,6,-,"Expert Climber, Pack Hunter (max 3)",Natural,-,-,-,LP
 Surfboy,8,+3,+3,14,+1,16,-,Special - see LP p86,Grav-Sled,+3,Special,LP p86,LP
 Venomous Croaker,0,+2,+2,8,+0,10,-,"Ensnare, No Push-back, Toxic",Croaker Grab,-,"3""","Automatic attack, pull to combat if dmg",LP
 Apprentice,6,+2,+2,10,+1,14,20,"Light Armour, Knife, Area of Knowledge (BE p13)",Carbine,-,"24""",-,BE
-Comtech,6,+2,+3,10,+2,14,100,"Light Armour, Knife, Ship Systems Knowledge, +1 Unlock Data-Loot, Direct Comms (can activate out of range)",Carbine,-,"24""",-,BE
+Comtech,6,+2,+3,10,+2,14,100,"Light Armour, Knife, Ship Systems Knowledge, +1 Unlock Data-Loot, Direct Comms",Carbine,-,"24""",-,BE
 Exosuit,4,+4,+3,13,+3,14,200,"Light Armour, M +2, F/A -2 if not in suit, Special BE p16",Carbine,-,"24""",-,BE
 Expert,6,+3,+3,10,+2,14,100,"Light Armour, Knife, Area of Expertise (BE p17)",Carbine,-,"24""",-,BE
 Quartermaster,6,+3,+3,10,+3,14,100,"Light Armour, Knife, Filter Mask, +1 to Ship eng, +2 unlock Loot",Pistol,-,"10""",-,BE
