@@ -1,6 +1,6 @@
 # Stargrave Reference Cards
 
-This is a collection of material to support players of Stargrave. I find it tricky to constantly skim rulebooks looking for stats and clarifications, especially now there are 5 expansions. I designed a series of cards and documents to help keep track of common stats and rules.
+This is a collection of material to support players of Stargrave. I find it tricky to constantly skim rulebooks looking for stats and clarifications, especially now there are so many expansions. I designed a series of cards and documents to help keep track of common stats and rules. I use the cards on the table next to the appropriate unit.
 
 Stargrave: Science Fiction Wargames in the Ravaged Galaxy, is a game by Joseph A. McCullough, published by [Osprey Games](https://www.ospreypublishing.com/uk/stargrave-9781472837509/). Stargrave and the expansions are &copy; Joseph A. McCullough.
 
@@ -13,6 +13,7 @@ These cards include information from:
 * Quarantine 37 (Q37)
 * Hope Eternal (HE)
 * Bold Endeavour (BE)
+* Death Vector (DV)
 
 See the pdfs folder for the following:
 ## Attribute Reference
@@ -34,3 +35,5 @@ All pdfs are set to A4 greyscale printing. You can print directly on cardstock o
 If there are issues with specific cards you can raise them with the Github issues system in this repository, and maybe one day I might get to it, or feel free to fork this project. I won't accept Pull Requests that just edit output/generated files, as these will be overwritten next time I generate them. I'm genuinely happy for you to fork this project and fiddle around with it.
 
 The source files are included, and comprise a series of Microsoft Excel spreadsheets, CSV export files, and Affinity Publisher 2 files for layouts and intermediate outputs. The Affinity Publisher 2 files have two sorts: first a template file that is set to draw data from the CSV. The second is the merged version if specific cards need small tweaks. Note that each card is its own page, so will need to be tiled for printing from Affinity.
+
+As of Death Vector I've moved to Affinity Studio but Affinity Publisher 2 files are inclded for convenience.
